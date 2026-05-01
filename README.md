@@ -1,4 +1,4 @@
-# 🧠 OpticaNet+ — Adaptive Explainable AI for Diabetic Retinopathy Detection
+# 🧠 OpticaNet+ — Smart Diabetic Retinopathy Detector
 
 A full-stack AI-powered web application for detecting **Diabetic Retinopathy** from retinal images and normal naked eye images using **Deep Learning + Explainable AI + Fuzzy Logic**.
 
